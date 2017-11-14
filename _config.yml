@@ -1,23 +1,23 @@
 menu:
-  主页: /
+  main: /
   归档: /archives
 
-logo: XXX
+logo: Morn.Chen
 
 more:
-  友情链接: /links.html
-  Github: https://github.com/XXX/
-  微博: http://weibo.com/XXX
-  知乎: https://www.zhihu.com/people/XXX
-  rss: /rss2.xml
+  #友情链接: /links.html
+  #Github: https://github.com/XXX/
+  #微博: http://weibo.com/XXX
+  #知乎: https://www.zhihu.com/people/XXX
+  RSS: /atom.xml
   关于我: /
 
 about:
-  title: Theme Pln
-  link: https://github.com/gaoryrt/hexo-theme-pln
+  title: C
+  link: http://chenchen.org
 
 disqus_shortname:
 
 excerpt_num: 120
 
-footer_info: © XXX 20xx-2017
+footer_info: © 2017
